@@ -12,7 +12,14 @@ This course provides a comprehensive understanding of data science methodologies
 - **Introduction to Data Science**
   - Overview of data science and its impact on modern industry and research.
   - Ethical considerations in data science.
-
+  - 
+- **Python for data Science**
+  - Python Basic Overview 
+  - NumPy and and Pandas for data preparation
+  - Missing value treatment
+  - Outlier detection and dealing
+  - Streamlit for Data Visualization  
+ 
 - **Data Manipulation and Analysis**
   - Data cleaning, preparation, and manipulation using tools like Pandas.
   - Exploratory data analysis and visualization techniques.
