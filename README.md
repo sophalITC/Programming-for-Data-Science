@@ -16,6 +16,7 @@ This course provides a comprehensive understanding of data science methodologies
 - **Python for data Science**
   - Python Basic Overview 
   - NumPy and and Pandas for data preparation
+  - Regular Expresion 
   - Missing value treatment
   - Outlier detection and dealing
   - Streamlit for Data Visualization  
