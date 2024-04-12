@@ -41,6 +41,6 @@ This course provides a comprehensive understanding of data science methodologies
   - Case studies to apply data science principles in real-world scenarios.
 ---
 
-**Institute of Technology of Cambodia**  
+[**Institute of Technology of Cambodia**](https://itc.edu.kh/home-ams/)
 **Data Science Program - Master's Course**  
 Academic Year 2022
